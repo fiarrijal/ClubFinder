@@ -1,2 +1,0 @@
-# ClubFinder
-Created with CodeSandbox
